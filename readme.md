@@ -1,4 +1,4 @@
-# Using Handlebars.js with HTML, CSS, and JavaScript: Musicon Project
+## Using Handlebars.js with HTML, CSS, and JavaScript: Musicon Project
 
 ### Tech stack
 * Handlebar.js
