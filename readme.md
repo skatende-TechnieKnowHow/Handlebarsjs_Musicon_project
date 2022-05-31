@@ -6,7 +6,7 @@
 * Command Line Interface
 * Git and GitHub.
 
-This is a multi-page interactive website made with Handlebar.js, HTML, CSS, and JavaScript web development.
+This is a multi-page interactive website made with Handlebar.js, HTML, CSS, and JavaScript.
 
 The website has only 3 separate web pages: a home page, a store page, and a contacts page.
 
